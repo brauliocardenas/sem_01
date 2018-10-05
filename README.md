@@ -22,3 +22,4 @@ CHULETA -> CHEATSHEET (?)
 
 TULA -> Mochila Scoutt 
 
+KLK
