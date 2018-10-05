@@ -7,7 +7,17 @@
 
 
 **Negrita**
+
 *italica*
 
 [vinculo]
+
+
+MD CHEATSSHEET
+CSS CHEATSSHEET
+HTML CHEATSSHEET
+JS CHEATSSHEET
+
+CHULETA -> 
+
 
